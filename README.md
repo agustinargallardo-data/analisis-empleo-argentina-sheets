@@ -22,5 +22,5 @@ Este proyecto tiene como fin analizar la evolución del empleo registrado en las
 * **Estacionalidad:** El gráfico de líneas revela picos de contratación recurrentes hacia el último trimestre de cada año.
 
 ---
-**Autora:** Agustina Rocio Gallardo  
+**Autora:** Agustina Rocio Gallardo  https://docs.google.com/spreadsheets/d/1LaFoPcNRQWLNDr-e8gpbNbrei67CrdBGyD5EEKkrCSs/edit?usp=sharing
 🎓 *Proyecto desarrollado como parte de mi formación en Data Science e IA.*
